@@ -1,0 +1,23 @@
+body{
+    background-color: #F5DEB3;
+}
+header{
+    background-color: #F4A460;
+}
+header h1 {
+    margin: 25px ;
+}
+header p{
+    margin: 25px;
+}
+section{
+    background-color: #D2B48C; margin-top: 2%; border-radius: 30px;
+    padding: 25px;
+    
+}
+section h2{
+    margin-left: 30px;
+}
+section p{
+    margin: 15px;
+}
