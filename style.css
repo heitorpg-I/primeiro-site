@@ -1,14 +1,14 @@
 body{
-    background-color: #F5DEB3;
+    background-color: #F5DEB3; letter-spacing: 0.7px; line-height: 75%;
 }
 header{
-    background-color: #F4A460;
+    background-color: #F4A460;padding: 15px; border-radius: 30px
 }
 header h1 {
-    margin: 25px ;
+    margin: 25px ;text-align: center;
 }
 header p{
-    margin: 25px;
+    margin: 25px; text-align: center;
 }
 section{
     background-color: #D2B48C; margin-top: 2%; border-radius: 30px;
